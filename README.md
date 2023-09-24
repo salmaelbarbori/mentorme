@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Page Overview
+<section align = "center">
+  <a href = "https://github.com/salmaelbarbori/mentorme/blob/master/src/Assets/overview.png">
+    <img src = "https://github.com/salmaelbarbori/mentorme/blob/master/src/Assets/overview.png" alt = "HomePage" />
+  </a>
+</section>
+
 ## Available Scripts
 
 In the project directory, you can run:
